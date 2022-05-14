@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 export const PATH = {
     PRE_JUNIOR: '/pre-junior',
     // add paths
@@ -26,4 +27,4 @@ function Routes() {
     )
 }
 
-//export default Routes
+export default Routes
