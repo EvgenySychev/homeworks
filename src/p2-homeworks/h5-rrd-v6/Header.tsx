@@ -10,7 +10,6 @@ function Header() {
             <NavLink to={PATH.JUNIOR} className={s.link}>junior</NavLink>
             <NavLink to={PATH.JUNIOR_PLUS} className={s.link}>junior-plus</NavLink>
             <div className={s.block}/>
-
         </div>
     )
 }
